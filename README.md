@@ -18,5 +18,5 @@
 
 ## ラズパイ初期環境構築
 1. Docker Engineをインストール. raspi64bitは[Debian用のマニュアル](https://docs.docker.com/engine/install/debian/)に従う。aptでインストール可能。  (参考) [raspi 32bit用マニュアル](https://docs.docker.com/engine/install/raspberry-pi-os/)
-1. Dockerグループを設定する。[マニュアル](https://docs.docker.com/engine/install/linux-postinstall/)
+1. Dockerグループ、起動時実行を設定する。[マニュアル](https://docs.docker.com/engine/install/linux-postinstall/)
 1. 
